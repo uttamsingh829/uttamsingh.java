@@ -9,25 +9,25 @@
   },
   {
     "image": "https://source.unsplash.com/1600x900/?backend",
-    "title": "no data",
-    "description": "",
-    "category": "",
-    "live": "",
+    "title": "Undefined",
+    "description": "Undefined",
+    "category": "Undefined",
+    "live": "https://live_project_ulr/",
     "github": ""
   },
   {
-    "image": "https://source.unsplash.com/1600x900/? website",
-    "title": "No Data",
-    "description": "No Data",
-    "category": "",
+    "image": "https://source.unsplash.com/1600x900/?website",
+    "title": "Undefined",
+    "description": "Undefined",
+    "category": "Undefined",
     "live": "https://live_project_ulr/",
     "github": ""
   },
   {
     "image": "https://source.unsplash.com/1600x900/?code",
-    "title": "",
-    "description": "This is fully functional Instagram clone with two more functions",
-    "category": "",
+    "title": "Undefined",
+    "description": "Undefined",
+    "category": "Undefined",
     "live": "https://live_project_ulr/",
     "github": ""
   }
