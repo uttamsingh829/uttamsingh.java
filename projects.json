@@ -9,26 +9,26 @@
   },
   {
     "image": "https://source.unsplash.com/1600x900/?backend",
-    "title": "no title here",
-    "description": "no description here",
-    "category": "",
+    "title": "No data available for this project - 1",
+    "description": "No description available for this project - 1",
+    "category": "Projects",
     "live": "https://live_project_ulr/",
     "github": ""
   },
   {
-    "image": "https://source.unsplash.com/1600x900/?website",
-    "title": "no title here",
-    "description": "no description here",
-    "category": "",
-    "live": "https://live_project_url/",
+    "image": "https://source.unsplash.com/1600x900/? website",
+    "title": "No data available for this project - 2",
+    "description": "No description available for this project - 2",
+    "category": "Projects",
+    "live": "https://live_project_ulr/",
     "github": ""
   },
   {
     "image": "https://source.unsplash.com/1600x900/?code",
-    "title": "no title here",
-    "description": "no description here",
-    "category": "",
-    "live": "https://live_project_lru/",
+    "title": "No data available for this project - 3",
+    "description": "No description available for this project - 3",
+    "category": "Projects",
+    "live": "https://live_project_ulr/",
     "github": ""
   }
   
