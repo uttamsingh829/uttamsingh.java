@@ -1,5 +1,5 @@
 
- fetch("https://cdn.jsdelivr.net/gh/Tegorinternational/uttamsingh.java/projects.json")
+ fetch("https://cdn.jsdelivr.net/gh/uttamsingh829/uttamsingh.java/projects.json")
   .then((response) => response.json())
   .then((data) => {
     // Get the div element to append the cards to
